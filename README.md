@@ -43,14 +43,14 @@
   <div>
    <h2>🎥 Redes Sociais!</h2>
     
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/deivid_henrique_22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   </div>
  
  
 <!-- /  -->
  </br>
- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+ <img width="500em" src="" />
 
  ##
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deivid-Oliveira&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph&theme=dracula)
