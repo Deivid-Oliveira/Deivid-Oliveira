@@ -1,7 +1,7 @@
 
 <h1 align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   # Olá! eu sou o Deivid Oliveira ... 🌎😊 
+   <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/01/Waving-Hand.gif" width="28">
+   | Olá! eu sou o Deivid Oliveira ... 😎👾 |
    
 </h1>
  
@@ -13,7 +13,7 @@
  <br />
  
   
-  <img align="right" alt="marcos-pic" height="400" style="border-radius:50;" src="https://i.pinimg.com/originals/32/ea/c0/32eac00e95e7abab99e09f9cfac68b19.jpg">
+  <img align="right" alt="" height="200" style="border-radius: 50%;" src="https://lh3.googleusercontent.com/PKPQDmweHHZlleBRMrCdB_qWOndOVJmL3GekgILkJzaNeC1AWDrQ3KpqcEvof7q_Fy4VK_CepgWWegSErdRhdakOQX6upbRyzmEPeGZM15Ha1VdCEMrIIEa7sd2P2ryJ3wzBYgEOaq0ohwc_bqMYnsOJa5NDzNfWKNNRoOw9v2QOewIjSzFwURx06rJshhykW2x_ruNYJURozHA48O8n6ZTY_lDn-_sBQLwCBaUTObyroJHzXyFEDroYbFYbi3K8KubMusvL5gu14pi1go6Kah2_gNgN6Hloyz3e_eURO2PbdKQ1REeOrwAqhhFWw31VWhnq2Ml-w2dti48bbrjT-wMBdrjorZ3FiyvYvc1rFR02mBtGrFphL5AM3vRe6cyh0ClTP_N20CqdWj7xuG4LqiuAvZpjcpHkAOPax351Z26ZASvOH0KFsKlcJ3pzmczqKq8xK2gp4gYfk2rhOTbQp7RQ168UmUbBZXxo_IauMfB2jiJlxdefUjNqkesvsUlRoUsyKs7tMvbiQy8u8fdexZ9gblQV4zMsKadYpm7e6wCBr2pUo_cFhwwi0NETnmk6_PdgK44DUDvsZDJfoXDfyOIe6dJGrgq3z-_KaEnKqjiGR20G2FHOwbPmDroP-aQGO7ZY5k_ngQjCdFpoWRTX4-UWfCaGrNR_ldAcF8IYbEXZb8GDTIX1cUiFUyiqEJ1qEq981g1BgiMzSYN9CeZ7Tx9hHcMurZHNA6V5bdnLyR0at_EKqFURix1P6SI=w613-h627-no?authuser=0">
 
 <div  align="center" >
   <a href="https://github.com/Deivid-Oliveira">
@@ -28,16 +28,9 @@
  <div style="display: inline_block"><br>
   <h2>🛠 Tecnologias</h2>
   <img align="center" alt="marcos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="40" align="center" />
-  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  
+  <img align="center" alt="marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     
-  
   <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://res.cloudinary.com/mahenrique94/image/upload/v1549717030/gif-bob-esponja-restaurante-pensando_bpy2ws.gif">
 </div>
    </br>
